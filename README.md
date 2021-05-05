@@ -4,6 +4,7 @@
 A curious engineer trying to penetrate the awesome world of inter/multidisciplinary knowledge <br/>
 My interests are everything from building systems, working with data to category theory 
 
+**Currently Working on Microfinance Management System Development(MIS & AIS) For TMSS**
 
 **Business Domains of Experience** <br/>
 - Financial Technology (FinTech)
