@@ -38,6 +38,21 @@ I'm open to all opportunities, or just saying hi :)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mazbaulalam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mazbaulalam" height="30" width="40" /></a>
+ <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/mazbaanik rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-82738efd-cc52-4684-bd35-454a4059099d' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >mazbaanik</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>Hi,
+I am working in laravel,cakephp,wordpress for last 4 years.I have Done Lot of projects in Laravel , Cakephp and wordpress.I can Develop any type of web application like ERP,E-COMMERCE,CRM.</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-82738efd-cc52-4684-bd35-454a4059099d' src='https://widgets.fiverr.com/api/v1/seller/mazbaanik?widget_id=82738efd-cc52-4684-bd35-454a4059099d' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
+
 
 
 
