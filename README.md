@@ -5,6 +5,12 @@ A curious engineer trying to penetrate the awesome world of inter/multidisciplin
 My interests are everything from building systems, working with data to category theory 
 
 
+<a href="https://github-readme-stats.vercel.app/api?username=mazbaul&count_private=true&show_icons=true&theme=chartreuse-dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mazbaul&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/mazbaul">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazbaul&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
 
 **Currently Working on Microfinance Management System Development(MIS & AIS) For TMSS**
 
