@@ -9,7 +9,11 @@ My interests are everything from building systems, working with data to category
 
 <a href="https://github-readme-stats.vercel.app/api?username=mazbaul&count_private=true&show_icons=true&theme=chartreuse-dark">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mazbaul&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a><br/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazbaul&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazbaul&layout=compact" />
+</a>
+<br/>
 
 **Business Domains of Experience** <br/>
 - Financial Technology (FinTech)
